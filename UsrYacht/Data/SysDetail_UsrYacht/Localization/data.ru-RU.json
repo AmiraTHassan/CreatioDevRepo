@@ -1,0 +1,18 @@
+{
+  "PackageData": [
+    {
+      "Row": [
+        {
+          "SchemaColumnUId": "ae0e45ca-c495-4fe7-a39d-3ab7278e1617",
+          "ColumnName": "Id",
+          "Value": "0dfe3b21-6b12-4cb0-a2f9-0d4ae61dbe18"
+        },
+        {
+          "SchemaColumnUId": "49ad8ee2-65a6-4cdd-b8f6-85c2f10a54dc",
+          "ColumnName": "Caption",
+          "Value": "Деталь Yacht"
+        }
+      ]
+    }
+  ]
+}

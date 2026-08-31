@@ -1,0 +1,10 @@
+﻿{
+  "Descriptor": {
+    "UId": "5f8372b3-ea13-4e1f-986b-c77eb22882c4",
+    "Name": "UsrYachtBusinessRule",
+    "ModifiedOnUtc": "\/Date(1788083231000)\/",
+    "ManagerName": "AddonSchemaManager",
+    "Caption": "Yacht (Business rules)",
+    "DependsOn": []
+  }
+}
